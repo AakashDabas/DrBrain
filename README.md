@@ -8,4 +8,6 @@ Instructions to compile:-
 -Further you'll need the game graphics and sounds files. Place them in the folder of debug or release depending upon which
 mode you are using.
 
-Thanks for visiting this repository.
+For futher details you can visit this link: http://www.entangler.in/dr-brain.html
+
+Thanks for visitig this repository.
